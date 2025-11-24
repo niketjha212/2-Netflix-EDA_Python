@@ -60,11 +60,11 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 📌 4. Top Content-Producing Countries
 | Rank | Country          | Titles     |
 |------|------------------|------------|
-| 🇺🇸 1 | United States    | ~2,800+    |
-| 🇮🇳 2 | India            | ~900+      |
-| 🇬🇧 3 | United Kingdom   | ~400+      |
-| 🇨🇦 4 | Canada           | ~300+      |
-| 🇯🇵 5 | Japan            | ~250+      |
+| 1 | United States    | ~2,800+    |
+| 2 | India            | ~900+      |
+| 3 | United Kingdom   | ~400+      |
+| 4 | Canada           | ~300+      |
+| 5 | Japan            | ~250+      |
 
 ➡️ India is the 2nd largest contributor after the US.
 
