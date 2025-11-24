@@ -5,7 +5,6 @@ A complete exploratory data analysis of the Netflix Titles Dataset, uncovering c
 This project demonstrates skills in data cleaning, analysis, visualization, and insight generation using real-world data.
 
 📁 Dataset Overview:
-
 | Feature         | Value                      |
 |-----------------|----------------------------|
 | Total Records   | 8,807 titles               |
@@ -18,7 +17,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 📁 Project Objectives:
-
 - Clean and preprocess the dataset  
 - Handle missing values  
 - Perform univariate & bivariate analysis
@@ -30,7 +28,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 📁 Key Insights From the Data:
 
 📌 1. Movies vs TV Shows
-
 | Category  | Count     |
 |-----------|-----------|
 | Movies    | ~6,150+   |
@@ -40,7 +37,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 📌 2. Most Common Ratings
-
 | Rating | Titles (Approx) |
 |--------|------------------|
 | TV-MA  | ~2,200           |
@@ -53,7 +49,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 📌 3. Release Year Trend
-
 | Insight Category     | Finding                                   |
 |----------------------|--------------------------------------------|
 | Growth Trend         | Sharp rise from 2017–2020                  |
@@ -63,7 +58,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 📌 4. Top Content-Producing Countries
-
 | Rank | Country          | Titles     |
 |------|------------------|------------|
 | 🇺🇸 1 | United States    | ~2,800+    |
@@ -76,7 +70,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 📌 5. Duration Summary
-
 | Content Type | Typical Duration / Seasons     |
 |--------------|--------------------------------|
 | Movies       | Mostly 85–110 minutes          |
@@ -87,7 +80,6 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 📁 Tools & Technologies Used:
-
 - Python
 - Pandas
 - NumPy
