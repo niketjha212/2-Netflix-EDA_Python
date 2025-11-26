@@ -1,35 +1,38 @@
 <h1 style="font-size: 40px;">🎬 Netflix Movies & TV Shows — Exploratory Data Analysis (EDA)</h1>
 
 
-This project analyzes the Netflix catalog to uncover trends in content types, ratings, durations, countries, and growth over time. The goal is to transform the raw dataset into actionable insights using Python, pandas, matplotlib, and seaborn.
+This project is a comprehensive analysis of the Netflix catalog to uncover trends across content types, ratings, countries, release patterns, and growth over time.
+This project transforms a raw dataset into meaningful insights using Python, Pandas, Matplotlib, and Seaborn.
 
 
 📁 Dataset Overview:
 | Feature         | Value                      |
 |-----------------|----------------------------|
-| Total Records   | 8,807 titles               |
-| Features        | 12 columns                 |
-| Content Types   | Movies (≈69%), TV Shows (≈31%) |
-| Ratings         | 14 categories              |
-| Countries       | 100+                       |
-| Missing Values  | Cleaned & imputed          |
+| Total Records     | 8,807 titles               |
+| Number of Features| 12 columns                 |
+| Content Types     | Movies (≈69%), TV Shows (≈31%) |
+| Ratings           | 14 categories              |
+| Countries covered | 100+                       |
+| Missing Values    | Cleaned, treated & imputed |
 
 
 
 📁 Project Objectives:
-- Clean and preprocess the dataset  
-- Handle missing values  
-- Perform univariate & bivariate analysis
-- Visualize key content distribution trends 
-- Derive real, actionable insights about Netflix’s catalog
+- Clean and preprocess the dataset for analysis
+- Handle missing or inconsistent values
+- Perform univariate analysis (individual feature distributions)
+- Conduct bivariate analysis (relationships between variables)
+- Visualize trends in Netflix’s global catalog
+- Extract actionable, real-world insights
 
 
-📂 What This Project Includes
-- Data cleaning & preprocessing
-- Handling missing values
-- Univariate & bivariate analysis
-- Visualizations of trends and patterns
-- Insights on content distribution and growth
+
+📂 What This Project Includes:
+- End-to-end data cleaning and preprocessing
+- Systematic missing value handling
+- Detailed univariate and bivariate EDA
+- Visualizations showing trends & patterns
+- Insight generation with business-centric interpretation
 
 
 
@@ -51,7 +54,7 @@ This project analyzes the Netflix catalog to uncover trends in content types, ra
 | Movies    | ~6,150+   |
 | TV Shows  | ~2,650+   |
 
-➡️ Movies make up nearly 70% of all Netflix titles.
+➡️Movies account for nearly 70% of Netflix’s content.
 
 
 📌 2. Most Common Ratings
@@ -63,7 +66,7 @@ This project analyzes the Netflix catalog to uncover trends in content types, ra
 | R      | ~800             |
 | PG-13  | ~490             |
 
-➡️ Netflix’s content heavily targets mature and teen audiences.
+➡️ Netflix mainly targets mature and teen audiences.
 
 
 📌 3. Release Year Trend
@@ -72,7 +75,7 @@ This project analyzes the Netflix catalog to uncover trends in content types, ra
 | Growth Trend         | Sharp rise from 2017–2020                  |
 | Catalog Expansion    | Nearly 60% of the catalog added after 2015 |
 
-➡️ Matches Netflix’s massive global expansion period.
+➡️ Aligned with Netflix’s global expansion phase.
 
 
 📌 4. Top Content-Producing Countries
@@ -84,24 +87,24 @@ This project analyzes the Netflix catalog to uncover trends in content types, ra
 | 4 | Canada           | ~300+      |
 | 5 | Japan            | ~250+      |
 
-➡️ India is the 2nd largest contributor after the US.
+➡️ ➡️ India is the 2nd largest contributor after the US.
 
 
-📌 5. Duration Summary
+📌 5. Duration Summary:
 | Content Type | Typical Duration / Seasons     |
 |--------------|--------------------------------|
 | Movies       | Mostly 85–110 minutes          |
 | TV Shows     | Majority have 1–2 seasons      |
 
-➡️ Short-format content is dominant.
-
+➡️ Short-duration content is most prevalent.
 
 
 
 📁 Summary of Findings:
-- Content Growth: Sharp rise in new titles from 2017–2020
-- Catalog Recency: Nearly 60% of titles were added after 2015
-- Content Types: Movies dominate (~69%), TV Shows (~31%)
-- Durations: Movies are mostly 85–110 minutes, TV Shows have 1–2 seasons
+- Content Growth: Significant rise from 2017–2020
+- Catalog Recency: ~60% of titles added post-2015
+- Content Split: Movies (~69%) dominate over TV shows (~31%)
+- Duration Trends: Movies ~90–110 mins; TV Shows typically 1–2 seasons
 - Top Countries: US, India, UK, Canada, Japan
-- Ratings Breakdown: 14 rating categories; TV-MA and TV-14 are most common
+- Ratings: TV-MA and TV-14 are the most common categories
+
